@@ -1,4 +1,4 @@
-                                                           👋 Hi, I’m @GauthamVarma 
+                                                           👋 Hi, I’m Gautham Varma 
                                                          A passionate AI/ML Enthusiast
                                                
 - 👀 I’m interested in MACHINE LEARNING AND BUSINESS MANAGEMENT

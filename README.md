@@ -1,9 +1,9 @@
                                                            👋 Hi, I’m Gautham Varma 
                                                          A passionate AI/ML Enthusiast
                                                
-- 👀 I’m interested in MACHINE LEARNING,JAVA DEVELOPMENT AND BUSINESS MANAGEMENT
-- 🌱 I’m currently learning ML AND DEEP LEARNING TECHINIQUES
-- 💞️ I’m looking to collaborate on Python and Java DEVELOPMENT PROJECTS
+- 👀 I’m interested in MACHINE LEARNING ,JAVA DEVELOPMENT AND BUSINESS MANAGEMENT.
+- 🌱 I’m currently learning ML AND DEEP LEARNING TECHINIQUES.
+- 💞️ I’m looking to collaborate on Python and Java DEVELOPMENT PROJECTS.
 
 
 <!---

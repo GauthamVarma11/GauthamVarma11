@@ -1,4 +1,6 @@
-Hi, I'm Gautham Sashi Nadimpalli!
+Hi, I'm Gautham Nadimpalli!
+
+
 🚀 Data Analyst | Data Scientist | SQL & BI Specialist
 📍 Houston, TX | 🔍 Actively Seeking Data Analytics Roles
 
